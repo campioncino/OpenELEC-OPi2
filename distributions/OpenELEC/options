@@ -12,7 +12,8 @@
   GREETING4=""
 
 # Root password to integrate in the target system
-  ROOT_PASSWORD="openelec"
+# ROOT_PASSWORD="openelec"
+  ROOT_PASSWORD="roberto"
 
 # Install glibc locales to the build (yes / no)
   GLIBC_LOCALES="yes"
